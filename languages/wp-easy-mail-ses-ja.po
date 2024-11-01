@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-08 19:01+0900\n"
+"PO-Revision-Date: 2017-05-17 17:02+0900\n"
+"Last-Translator: Shinichi Okamoto\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-SearchPath-0: wp-easy-mail-ses\n"
+
+#: admin/class-wp-easy-mail-ses-admin.php:61
+msgid "You do not have sufficient permissions to access this page"
+msgstr "このページへアクセスするために必要な権限を持っていません"
+
+#: admin/class-wp-easy-mail-ses-admin.php:93
+msgid "Success Update"
+msgstr "更新に成功しました"
+
+#: admin/class-wp-easy-mail-ses-admin.php:97
+msgid "Test Subject"
+msgstr "WP easy mail SESよりテストメッセージです"
+
+#: admin/class-wp-easy-mail-ses-admin.php:98
+msgid "Test Message"
+msgstr "ここに本文が表示されます"
+
+#: admin/class-wp-easy-mail-ses-admin.php:102
+msgid "Success Send"
+msgstr "送信に成功しました。"
+
+#: admin/class-wp-easy-mail-ses-admin.php:104
+msgid "Failed Send"
+msgstr "送信に失敗しました。アクセスキーやEmailの認証状況を確認してください。"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:15
+msgid "WP easy mail SES"
+msgstr "WP easy mail SES"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:18
+msgid "AWS settings"
+msgstr "AWS設定"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:21
+msgid "AWS access key id"
+msgstr "AWS アクセスキーID"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:28
+msgid "AWS secret key ID"
+msgstr "AWS シークレットキーID"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:35
+msgid "AWS region"
+msgstr "AWS リージョン"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:41
+msgid "United States east 1"
+msgstr "バージニア北部"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:47
+msgid "United States west 2"
+msgstr "オレゴン"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:53
+msgid "European Union west 1"
+msgstr "アイルランド"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:59
+msgid "Sender settings"
+msgstr "送信者情報"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:62
+msgid "Sender Email address"
+msgstr "送信者メールアドレス"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:69
+msgid "Sender name"
+msgstr "送信者名"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:75
+msgid "Update"
+msgstr "更新"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:78
+msgid "Verification status"
+msgstr "検証状態"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:89
+msgid "Verified"
+msgstr "成功"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:92
+msgid "Failed"
+msgstr "失敗"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:97
+msgid "Send test message"
+msgstr "テストメッセージの送信"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:102
+msgid "Send Email address"
+msgstr "送信先メールアドレス"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:109
+msgid "Send Email"
+msgstr "送信"

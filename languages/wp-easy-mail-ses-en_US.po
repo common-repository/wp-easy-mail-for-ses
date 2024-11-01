@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-08 19:01+0900\n"
+"PO-Revision-Date: 2017-05-17 17:23+0900\n"
+"Last-Translator: Shinichi Okamoto\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-SearchPath-0: wp-easy-mail-ses\n"
+
+#: admin/class-wp-easy-mail-ses-admin.php:61
+msgid "You do not have sufficient permissions to access this page"
+msgstr "You do not have sufficient permissions to access this page"
+
+#: admin/class-wp-easy-mail-ses-admin.php:93
+msgid "Success Update"
+msgstr "Updated"
+
+#: admin/class-wp-easy-mail-ses-admin.php:97
+msgid "Test Subject"
+msgstr "Test Send from WP easy mail SES"
+
+#: admin/class-wp-easy-mail-ses-admin.php:98
+msgid "Test Message"
+msgstr "Message here."
+
+#: admin/class-wp-easy-mail-ses-admin.php:102
+msgid "Success Send"
+msgstr "Sended."
+
+#: admin/class-wp-easy-mail-ses-admin.php:104
+msgid "Failed Send"
+msgstr "Failed send. Please check your access key or sender email."
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:15
+msgid "WP easy mail SES"
+msgstr "WP easy mail SES"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:18
+msgid "AWS settings"
+msgstr "AWS Settings"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:21
+msgid "AWS access key id"
+msgstr "AWS access key ID"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:28
+msgid "AWS secret key ID"
+msgstr "AWS secret key ID"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:35
+msgid "AWS region"
+msgstr "AWS region"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:41
+msgid "United States east 1"
+msgstr "N. Virginia"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:47
+msgid "United States west 2"
+msgstr "Oregon"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:53
+msgid "European Union west 1"
+msgstr "Ireland"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:59
+msgid "Sender settings"
+msgstr "Sender Information"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:62
+msgid "Sender Email address"
+msgstr "Sender Email address"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:69
+msgid "Sender name"
+msgstr "Sender name"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:75
+msgid "Update"
+msgstr "Update"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:78
+msgid "Verification status"
+msgstr "Verification Status"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:89
+msgid "Verified"
+msgstr "Success"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:92
+msgid "Failed"
+msgstr "Failure"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:97
+msgid "Send test message"
+msgstr "Send a test message"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:102
+msgid "Send Email address"
+msgstr "Your email"
+
+#: admin/partials/wp-easy-mail-ses-admin-display.php:109
+msgid "Send Email"
+msgstr "Send"
